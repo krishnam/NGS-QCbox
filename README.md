@@ -1,15 +1,11 @@
-# NGS-QCbox
+# NGS-QCbox 
 
-NGS-QCbox and Raspberry for parallel, automated and rapid quality control analysis of large-scale next generation sequencing (Illumina) data
+NOTE: I am working on a complete revamp of this pipeline inorder to simplify the pipeline.
 
-A QC tool box for Next generation sequencing data of Illumina HiSeq and MiSeq
+NGS-QCbox and Raspberry for Parallel, Automated and Rapid Quality Control Analysis of Large-Scale Next Generation Sequencing (Illumina) Data
+cite: Katta, Mohan AVSK, Aamir W. Khan, Dadakhalandar Doddamani, Mahendar Thudi, and Rajeev K. Varshney. "NGS-QCbox and Raspberry for Parallel, Automated and Rapid Quality Control Analysis of Large-Scale Next Generation Sequencing (Illumina) Data." PloS one 10, no. 10 (2015): e0139868.
 
-Authors: KAVS Krishna Mohan, Aamir W Khan, Dadakhalandar Doddamani, Mahendar Thudi and Rajeev K Varshney
-email: k.krishnamohan@cgiar.org, a.khan@cgiar.org, d.doddamani@cgiar.org, t.mahendar@cgiar.org, r.k.varshney@cgiar.org
-
-Center of Excellence in Genomics
-
-ICRISAT, Hyderabad, India
+It is a QC tool box for processing Next generation sequencing data of Illumina HiSeq and MiSeq
 
 NGS-QCbox is a commandline pipeline that enables NGS quality control to be performed with ease. The outputs include base and read level statistics, genome coverage and variant infomation.
 
