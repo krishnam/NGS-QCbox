@@ -2,6 +2,8 @@
 
 NOTE: I am working on a complete revamp of this pipeline inorder to simplify the pipeline.
 
+Citation
+
 NGS-QCbox and Raspberry for Parallel, Automated and Rapid Quality Control Analysis of Large-Scale Next Generation Sequencing (Illumina) Data
 cite: Katta, Mohan AVSK, Aamir W. Khan, Dadakhalandar Doddamani, Mahendar Thudi, and Rajeev K. Varshney. "NGS-QCbox and Raspberry for Parallel, Automated and Rapid Quality Control Analysis of Large-Scale Next Generation Sequencing (Illumina) Data." PloS one 10, no. 10 (2015): e0139868.
 
